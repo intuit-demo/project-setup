@@ -1,3 +1,5 @@
+
+
 NFR's
 
 * what would be the SLA from time of vehicle event arrived to the time the data is avaliable for reporting? 1 hour delay acceptable?
@@ -9,3 +11,4 @@ NFR's
 * sending a notification should be part the design? of this will be the feature extension
 * the report generation needs is on-demand reports pull based on the data or automated scheduled reports based on the data?
 
+* only registered devices are allowed to publish events
